@@ -1,3 +1,4 @@
+// Accept And Print
 import java.util.Scanner;
 public class AcceptAndPrintInfo {
     public static void main(String[] args) {
